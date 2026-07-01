@@ -2,7 +2,7 @@
 
 Mann Vaasam is a responsive Farm-to-Home e-commerce website developed as part of my Full Stack Web Development course.
 
-The objective of this project is to convert a given Figma UI design into a fully responsive website using front-end technologies while following modern web development practices. The project focuses on building a clean, user-friendly interface and improving practical skills in HTML, CSS, JavaScript, responsive web design, and Git/GitHub workflow.
+The objective of this project is to convert a given Figma UI design into a fully responsive website using front-end technologies while following modern web development practices. The project focuses on building a clean, user-friendly interface and improving practical skills in HTML, CSS, responsive web design, and Git/GitHub workflow.
 
 ## 📌 Project Objective
 
@@ -33,7 +33,6 @@ The objective of this project is to convert a given Figma UI design into a fully
 
 - HTML5
 - CSS3
-- JavaScript
 - Font Awesome
 - Google Fonts
 - Git & GitHub
