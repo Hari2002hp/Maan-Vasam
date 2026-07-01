@@ -1,130 +1,67 @@
-# 🌾 Maan Vasam
+# 🌿 Mann Vaasam – Farm to Home E-Commerce Website
 
-A responsive agriculture and millet awareness website built using **HTML, CSS, JavaScript, Bootstrap, PHP, jQuery, and MySQL**. The project promotes traditional millets, healthy food habits, and provides users with information about different millet varieties, recipes, and farming practices.
+Mann Vaasam is a responsive Farm-to-Home e-commerce website developed as part of my Full Stack Web Development course.
 
----
+The objective of this project is to convert a given Figma UI design into a fully responsive website using front-end technologies while following modern web development practices. The project focuses on building a clean, user-friendly interface and improving practical skills in HTML, CSS, JavaScript, responsive web design, and Git/GitHub workflow.
 
-## 📌 Features
+## 📌 Project Objective
 
-* 🏠 Responsive Home Page
-* 🌾 Millet Varieties Section
-* 🍲 Healthy Millet Recipes
-* 👨‍🌾 Agriculture & Farming Information
-* 📱 Mobile-Friendly Design
-* 🔍 Smooth Navigation
-* 📩 Contact Form
-* 🔐 User Authentication (Login & Registration)
-* ⚡ AJAX-based Form Submission
-* 💾 MySQL Database Integration
+- Convert a Figma design into a pixel-perfect responsive website.
+- Practice real-world front-end development.
+- Improve UI/UX implementation skills.
+- Learn version control using Git and GitHub.
+- Build a portfolio-ready e-commerce website.
 
----
+## ✨ Features
+
+- Responsive Navigation Bar
+- Hero Banner
+- Product Categories
+- Featured Products
+- Farmer Network Section
+- About Us
+- Mission & Vision
+- Video Banner
+- Our Promise Section
+- Farm Gallery
+- Promotional Banner Slider
+- How It Works
+- Contact Form
+- Footer
 
 ## 🛠️ Technologies Used
 
-### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Google Fonts
+- Git & GitHub
 
-* HTML5
-* CSS3
-* JavaScript
-* jQuery
-* Bootstrap 5
+## 📱 Responsive Design
 
-### Backend
+- Desktop
+- Tablet (iPad)
+- Mobile
 
-* PHP
+## 🚀 Future Improvements
 
-### Database
+- User Authentication
+- Product Details Page
+- Shopping Cart
+- Wishlist
+- Search Functionality
+- PHP Backend APIs
+- MySQL Database Integration
+- Online Checkout
+- Order Management
 
-* MySQL
+## 🎨 Design Source
 
----
+This project is developed based on a Figma design provided as part of the course assignment. The implementation is created for learning purposes to improve front-end development and responsive web design skills.
 
-## 📂 Project Structure
-
-```text
-Maan-Vasam/
-│
-├── css/
-├── js/
-├── images/
-├── php/
-├── database/
-├── index.html
-├── index.css
-├── README.md
-└── assets/
-```
-
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Hari2002hp/Maan-Vasam.git
-```
-
-### Open the Project
-
-Move into the project folder.
-
-```bash
-cd Maan-Vasam
-```
-
-### Configure Database
-
-1. Create a MySQL database.
-2. Import the SQL file.
-3. Update the database credentials in the PHP configuration file.
-
-### Run the Project
-
-* Place the project inside the **htdocs** folder (XAMPP) or your web server.
-* Start **Apache** and **MySQL**.
-* Open:
-
-```
-http://localhost/Maan-Vasam/
-```
-
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-
-
-* Millet Varieties
-* Recipes
-* Login Page
-
-
----
-
-## 🎯 Future Improvements
-
-* User Dashboard
-* Admin Panel
-* Online Millet Store
-* Search & Filter
-* Blog Section
-* Payment Gateway
-* Multi-language Support (English & Tamil)
-
----
-
-## 👩‍💻 Author
+## 👨‍💻 Author
 
 **Hari Priya S**
 
-GitHub: https://github.com/Hari2002hp
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a **⭐ Star** on GitHub.
+Full Stack Web Development Student
