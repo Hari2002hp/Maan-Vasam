@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MaanVasam
 Mann Vaasam is a responsive Farm-to-Home e-commerce website that connects local farmers directly with customers. The website showcases fresh vegetables, fruits, eggs, dairy products, and other farm products with a modern UI, product categories, promotional banners, and an engaging user experience.
 
@@ -36,3 +37,6 @@ A clean and modern farm-fresh e-commerce interface inspired by real-world grocer
 
 ---
 Made with ❤️ by Hari Priya S
+=======
+# MaanVasam
+>>>>>>> 5ea8da92a58d6fedaafe04ad47299594b102d4b6
